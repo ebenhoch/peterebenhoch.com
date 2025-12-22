@@ -1,0 +1,13 @@
+---
+title: "Software Development & Sovereign Cloud Operations"
+author: "Harlow Malloc"
+date: "2025-08-21"
+categories: [innovation, productivity, compliance]
+image: "devops.png"
+custom-number: 30
+¶href: https://pmi.org
+---
+
+Setting up and implementing sustainable projects for innovation and value. 
+
+

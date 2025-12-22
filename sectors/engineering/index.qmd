@@ -1,0 +1,12 @@
+---
+title: "Engineering"
+author: "Schindler, Buhler, Witron, KSB"
+date: "2025-08-21"
+custom-date: "2020-08-21"
+custom-number: 50
+categories: [project management, compliance management, technical communication, translation management, data management]
+image: "image.png"
+description: ""
+---
+
+Technical communication and compliance management.

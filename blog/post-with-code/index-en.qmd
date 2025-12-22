@@ -1,0 +1,16 @@
+---
+title: "Englisch Blogpost"
+author: "Harlow Malloc"
+date: "2025-08-21"
+categories: [news, code, analysis]
+image: "image.jpg"
+description: "This is a description."
+lang: EN
+---
+
+[» Deutsch](index-de.qmd)
+
+# This is the english title
+
+
+

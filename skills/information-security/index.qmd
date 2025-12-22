@@ -1,0 +1,17 @@
+---
+title: "Information Security Management"
+author: "Harlow Malloc"
+date: "2025-08-21"
+categories: [digital, security, continuity, sovereignty]
+image: "infosec.png"
+custom-number: 40
+---
+
+## Description
+
+## Education & Affiliation
+
+## Experience 
+
+## Publications
+

@@ -1,0 +1,12 @@
+---
+title: "Software"
+author: "Trifork, RISE"
+date: "2025-08-21"
+custom-date: "2020-08-21"
+custom-number: 20
+categories: [innovation, service design, cloud computing, architecture, uml, bpmn, quality management, value creation]
+image: "image.jpg"
+description: ""
+---
+
+Make agile stabile: Combining creativity with stable operations and ambidextric capabilities. 

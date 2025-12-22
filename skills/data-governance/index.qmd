@@ -1,0 +1,29 @@
+---
+title: "Data Management & AI Governance"
+author: "Harlow Malloc"
+date: "2025-08-21"
+categories: [digital, governance, compliance]
+image: "governance.png"
+custom-number: 20
+---
+
+## Description
+
+## Education & Affiliation
+
+- Legal Informatics
+- Content Management Systems
+- 
+
+## project Experience 
+
+- Schindler Management
+- EnBW
+- Eurocontrol
+- Tanner 
+
+## Lectures and SYstems
+
+- Microsoft Sharepoint
+- Omnimark Education
+- Metadata Lecture Uni vienna Bibliothek wien

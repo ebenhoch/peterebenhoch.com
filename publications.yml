@@ -1,0 +1,23 @@
+- title: First Item
+  abstrat: "- stutt is stutt
+  - stuff is stuff"
+  author: Hugo Gold
+  date: 2025-08-27
+  href: https://www.quarto.org
+  custom-field: A custom value
+  categories: [legal, writing, compliance, riskmgmt]
+  image: "image.jpg"
+  custom-number: 10
+  test: "hugo was here"
+
+- title: SECOND Item
+  author: Hugo Gold
+  date: 2025-08-27
+  href: https://www.quarto.org
+  custom-field: A custom value
+  categories: [legal, writing, compliance, riskmgmt]
+  image: "image.jpg"
+  custom-number: 10
+  test: "hugo was here"
+
+  

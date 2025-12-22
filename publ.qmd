@@ -1,0 +1,33 @@
+---
+#todo: erfahrungen, kompetenzen, blog, stanford farben ins css
+title: "Publications"
+subtitle: "Publications"
+abstract: "Personal Website with professional background."
+description: "hugo was here2"
+title-block-banner: true
+
+listing:
+    id: articles-list
+    feed: false
+    contents: 
+    - articles/article*.qmd
+    sort: "custom-number"
+    template: test.ejs
+    type: default
+    categories: true
+    sort-ui: false
+    filter-ui: false
+    date-format: iso
+ 
+page-layout: full
+   
+format:
+  html:
+    theme: united
+    css: styles.css
+    toc: true
+
+---
+
+
+

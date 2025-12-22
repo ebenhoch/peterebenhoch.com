@@ -1,0 +1,12 @@
+---
+title: "Media"
+author: "Manz, Orac, Weka Publishers"
+date: "2025-08-21"
+custom-date: "2020-08-21"
+custom-number: 60
+categories: [innovation, digitalisation, project management, data management, servicedesign]
+image: "image.jpg"
+description: ""
+---
+
+Transform publishing into the digital sphere with structured data managemend and shaping new information products.

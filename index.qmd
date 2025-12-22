@@ -1,0 +1,69 @@
+---
+#todo: erfahrungen, kompetenzen, blog, stanford farben ins css
+# g:\Meine Ablage\Workspace\Photos\Portraets\PXL Vision - 2024-04\
+title: "Dr. iur. Peter Ebenhoch"
+subtitle: "CISM® CIPP/E® PMP®"
+abstract: "Experienced digital and legal professional with extensive legal innovation and compliance experience in regulated sectors."
+description: "Digital Governance – Information Sovereignty – Technology Law"
+title-block-banner: true
+#listing:
+#  - id: blog
+#    contents: blog
+#    sort: "date desc"
+#    type: default
+#    categories: true
+#    sort-ui: false
+#    filter-ui: false
+
+page-layout: full
+   
+format:
+  html:
+    theme: united
+    css: styles.css
+    toc: true
+
+# {{< iconify mdi:volume-high >}} test
+# {{< iconify fa6-brands:bluesky >}}
+
+
+---
+
+## Welcome
+
+![](noun-fist-bump-26677.svg){width=60} Thanks for being here: On this website you will find information about me, my professional achievements and my areas of expertise.
+
+I look forward to hearing from you!
+
+_Peter Ebenhoch_
+
+---
+
+## Competencies
+::: {.grid}
+
+::: {.g-col-6}
+
+### ![](noun-area-4106636.svg){width=60} [Sectors](sectors.qmd)
+
+Learn more about my professional project successes and areas of expertise.
+
+:::
+  
+::: {.g-col-6}
+
+### ![](noun-team-skills-7675854.svg){width=60} [Skills](skills.qmd)
+
+Learn more about my core competencies and skills.
+
+:::
+  
+:::  
+
+---
+
+## Contact details
+
+![](noun-chatting-6596088.svg){width=60} Here you will [find here](contact.qmd) further information on how to contact me.
+
+

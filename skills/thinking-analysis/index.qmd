@@ -1,0 +1,54 @@
+---
+title: "Logical Thinking, Strategic Management and Data Science"
+author: "Hochschule St. Gallen, Marris Consulting"
+date: "2025-08-21"
+custom-date: "2020-08-21"
+custom-number: 40
+categories: [ltp, hsg]
+image: "logicalanalysis.png"
+description: ""
+#field-display-names:
+#    author: "Affiliation"
+language: 
+  title-block-author-single: "Affiliation"
+  title-block-published: "Updated"
+---
+
+## Education & Affiliation
+
+### Data Science
+
+_provided by Stanford University, Data Science Proficience Bootcamp, Stanford, 2025_
+
+![Certificate of Proficiency in Data Science](Stanford Data Science Certificate-2025.png){width=300}
+
+
+
+### Logical Thinking Process Practitioner (LTP)
+
+_provided by William Dettmer at Marris Consulting, Paris 2018_
+
+::: {layout-ncol=2}
+
+![William (Bill) Dettmer](20180607_105206.jpg){width=400}
+
+![Class "Local Warrior"](IMG_4906.JPEG){width=400}
+
+:::
+
+
+
+### CAS Strategic Management
+
+_provided by Günther Müller-Stewens, St. Gallen 2014_
+
+![HSG Campus](hsg-executive-education.jpg){width=400}
+
+
+
+
+### Ultralearning / High IQ Society
+
+_member of Mensa International, Chapter Switzerland_
+
+![Mensa International](mensa-international.png){width=200}

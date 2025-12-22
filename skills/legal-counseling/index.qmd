@@ -1,0 +1,45 @@
+---
+title: "Legal Counseling, Legal Writing & Legal Design"
+#author-title: "hzug"
+#author: "Harlow Malloc"
+date: "2025-08-21"
+categories: [legal, writing, compliance, innovation, visualization, design, governance]
+image: "writing.png"
+custom-number: 10
+---
+
+I studied law and I am an expert in digitalization, IT law and Compliance.
+
+### CIPP/E
+
+
+![Certified Informaton Privacy Professional – CIPP/E](cippe.png){width=100} 
+
+_issued by the International Association for Privacy Professionals in 2025_
+
+
+## Legal Studies
+
+
+### Doctorate from the University of Innsbruck with a dissertation on «compliance as regulated regulation».
+
+![University of Innsbruck](1200px-Universitaet-innsbruck-logo-rgb-farbe.svg.png){width=100} 
+
+
+
+### Academic degree from the University of Vienna, Law Faculty, with a thesis in commercial law.
+
+
+![University of Vienna](uni-wien-logo.x9a2c1b96.jpg){width=100} 
+
+
+
+## Experience 
+
+- Systemic contract management and structured contract evelopment for a medical start-up company.
+- Legal advice and internal guidance on data protection and information security for a medical start-up company.
+- Review and revision of all legal and compliance documents, including product sheets for an Internet Service Provider.
+- Legal project support for the development of a Gematik-compliant medical application (DE)
+- Development of customer-specific legal information products for several specialist publishers (AT).
+
+

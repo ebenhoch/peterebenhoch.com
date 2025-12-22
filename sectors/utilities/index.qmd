@@ -1,0 +1,12 @@
+---
+title: "Utilities"
+author: "SGSW, WWZ, RWT"
+date: "2025-08-21"
+custom-date: "2020-08-21"
+custom-number: 40
+categories: [innovation, compliance assessment, technical communication, service design, smart city, internet of things]
+image: "image.jpg"
+description: ""
+---
+
+Integrating digital solutions to make utilites more efficient and versatile.

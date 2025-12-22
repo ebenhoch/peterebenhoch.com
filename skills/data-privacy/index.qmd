@@ -1,0 +1,20 @@
+---
+title: "Data Privacy, Data Economy Law and AI-Regulation"
+author: "Tristan O'Malley"
+date: "2025-08-18"
+categories: [news]
+image: "dataprivacy.png"
+---
+
+This is the first post in a Quarto blog. Welcome!
+
+![](thumbnail.jpg)
+
+## Description
+
+## Education & Affiliation
+
+## Experience 
+
+## Publications
+

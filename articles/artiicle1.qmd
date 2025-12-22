@@ -1,0 +1,39 @@
+---
+type: journal
+date: 2022-11
+title: "Modeling and Estimation of Self-Phoretic Magnetic Janus Microrobot With Uncontrollable Inputs"
+description: | 
+  This paper theoretically investigates the modeling of  spherical catalytic 
+  self-phoretic magnetic Janus microrobot (MJR) evolving in uniform viscous flow.
+author:
+  - name: David Folio
+    orcid: 0000-0001-9430-6091
+    url: https://dfolio.fr
+    image: "https://dfolio.fr/images/david-folio.webp"
+    attributes:
+      corresponding: true
+      equal-contributor: true
+    affiliations:
+      - ref: PRISME
+  - name: Antoine Ferreira
+    url: https://www.researchgate.net/profile/Antoine-Ferreira
+    affiliations:
+      - ref: PRISME
+    attributes:
+      equal-contributor: true
+citation:
+  url: https://ieeexplore.ieee.org/document/9678101
+  citation-key: 2022folioTCST
+  type: article-journal
+  publisher: "IEEE"
+  container-title: "IEEE Transactions on Control Systems Technology"
+  container-title-short: "IEEE Trans. Cont. Syst. Technol."
+  issn: 1558-0865
+  number: 6
+  page: 2681-2688
+  volume: 30
+  keyword: Dual Kalman filtering, estimation, Janus particle, Kalman filters, magnetic microrobot, mathematical
+    models, modeling, propulsion, state-space representation
+  abstract: |      
+    The abstract go there
+    ---

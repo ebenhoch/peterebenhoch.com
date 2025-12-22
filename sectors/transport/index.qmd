@@ -1,0 +1,14 @@
+---
+title: "Transport"
+author-title: "References"
+author: "Audi, Eurocontrol"
+date: "2025-08-21"
+custom-date: "2020-08-21"
+custom-number: 70
+categories: [compliance, content management, technical communication]
+image: "image.jpg"
+description: ""
+
+---
+
+Smart structured content management to empower innovative transport options and products.

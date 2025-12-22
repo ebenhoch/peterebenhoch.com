@@ -1,0 +1,30 @@
+#html:
+#  title-block-banner: green
+#  title-block-banner-color: white
+
+color:
+  palette:
+    dark-grey: "#222222"
+    blue: "#ddeaf1"
+  background: blue
+  foreground: dark-grey
+  primary: black
+
+logo:
+  medium: logo.png
+
+typography:
+  fonts:
+    - family: Sansation
+      source: google
+  base: Sansation
+  headings: Sansation
+#Jura
+
+defaults:
+  bootstrap:
+    defaults:
+      navbar-bg: "#8C1515"
+      navbar-fg: "#FFFFFF"
+      navbar-hl: "#2E2D29"
+

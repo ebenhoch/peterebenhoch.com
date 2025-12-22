@@ -1,0 +1,119 @@
+---
+#todo: erfahrungen, kompetenzen, blog, stanford farben ins css
+title: "Blog"
+subtitle: "Blog"
+abstract: "Personal Website with professional background."
+description: "hugo was here2"
+title-block-banner: true
+
+
+listing: 
+  - id: english-posts
+    feed: false
+    contents: "blog/*/*en.qmd"
+    fields: [title, subtitle, description, date, reading-time, lang]
+    field-display-names:
+      title: "Topic"
+      subtitle: "Subtitle"
+      author: "Affiliation"
+      date: "Since"
+      custom-number: "#" 
+      custom-field: "Affiliation"
+    sort: "custom-number"
+    type: default
+    categories: true
+    sort-ui: false
+    filter-ui: true
+    date-format: iso
+
+  - id: german-posts
+    feed: false
+    contents: "blog/*/*de.qmd"
+    fields: [title, subtitle, description, date, reading-time, lang]
+    field-display-names:
+      title: "Topic"
+      subtitle: "Subtitle"
+      author: "Affiliation"
+      date: "Since"
+      custom-number: "#" 
+      custom-field: "Affiliation"
+    sort: "custom-number"
+    type: default
+    categories: true
+    sort-ui: false
+    filter-ui: true
+    date-format: iso
+
+  - id: rechtsinformatik
+    feed: false
+    contents: 
+      -  blog/rechtsinformatik.yaml
+    fields: [title, text, date]
+    field-display-names:
+      title: "Topic"
+      subtitle: "Subtitle"
+      author: "Affiliation"
+      date: "Date"
+      text: "Language"
+      custom-number: "#" 
+      custom-field: "Affiliation"
+    sort: "custom-number"
+    type: table
+    categories: true
+    sort-ui: false
+    filter-ui: false
+    date-format: iso
+ 
+
+  - id: systemic-advisor
+    feed: false
+    contents: 
+      -  blog/systemic-advisor.yaml
+    fields: [title, text, date]
+    field-display-names:
+      title: "Topic"
+      subtitle: "Subtitle"
+      author: "Affiliation"
+      date: "Since"
+      text: "Language"
+      custom-number: "#" 
+      custom-field: "Affiliation"
+    sort: "custom-number"
+    type: table
+    categories: true
+    sort-ui: false
+    filter-ui: false
+    date-format: iso
+
+
+page-layout: full
+   
+format:
+  html:
+    theme: united
+    css: styles.css
+    toc: true
+
+---
+
+## English posts
+
+:::{#english-posts}
+:::
+
+## Blogbeiträge auf deutsch
+
+:::{#german-posts}
+:::
+
+## [Rechtsinformatik.at](https://rechtsinformatik.at)
+
+:::{#rechtsinformatik}
+:::
+
+## [Systemic Advisor.com](https://systemic-advisor.com)
+
+:::{#systemic-advisor}
+:::
+
+

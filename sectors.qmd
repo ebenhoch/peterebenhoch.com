@@ -1,0 +1,38 @@
+---
+#todo: erfahrungen, kompetenzen, blog, stanford farben ins css
+title: "Sectors"
+subtitle: ""
+abstract: "Areas and industries in which I have provided technical, communication and legal consulting services and gained sustainable project experience."
+description: ""
+title-block-banner: true
+
+listing:
+    feed: false
+    contents: sectors
+#    fields: [title, categories]
+    field-display-names:
+      title: "Topic"
+      author: "Affiliation"
+      date: "Since"
+      custom-number: "#" 
+      custom-field: "Affiliation"
+    sort: "custom-number"
+    type: grid
+    categories: true
+    sort-ui: false
+    filter-ui: false
+    date-format: iso
+ 
+page-layout: full
+   
+format:
+  html:
+    theme: united
+    css: styles.css
+    toc: true
+
+---
+
+
+
+

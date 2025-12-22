@@ -1,0 +1,32 @@
+---
+title: "Contact"
+image: ebenhoch-edvgt-ausschnitt.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+  
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+
+![](logo-paloalto.png)
+
+:::
+  
+::: {.g-col-6}
+
+    Dr. Peter Ebenhoch
+    pe@peterebenhoch.com
+    https://linkedin.com/in/ebenhoch
+
+    +41 78 932 19 19
+
+
+:::
+  
+:::  

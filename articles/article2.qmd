@@ -1,0 +1,14 @@
+---
+title: "Summarizing Output for Reproducible Documents"
+description: | 
+  A summary of the best practices for summarizing output of reproducible scientific documents.
+date: 5/4/2018
+author:
+  - name: Norah Jones 
+    url: https://example.com/norahjones
+    affiliation: Spacely Sprockets
+    affiliation-url: https://example.com/spacelysprockets
+citation:
+  url: https://example.com/summarizing-output
+#bibliography: biblio.bib
+---

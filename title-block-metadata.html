@@ -1,0 +1,56 @@
+<header id="title-block-header">
+<div class="quarto-title-banner">
+  <h1 class="title" itemprop="headline">$title$</h1>
+  $if(subtitle)$<p class="subtitle lead">$subtitle$</p>$endif$
+</div>
+$if(title-block-meta)$
+$title-metadata.html()$
+$endif$
+</header>
+
+$if(by-affiliation/first)$
+<div class="quarto-title-meta-author by-affiliation">
+  <div class="quarto-title-meta-heading">$labels.authors$</div>
+  <div class="quarto-title-meta-heading">$labels.affiliations$</div>
+  $for(by-author)$
+  <div class="quarto-title-meta-contents">
+    <p class="author$if(by-author.attributes.supervised)$ supervised$endif$">
+    $title-metadata-author.html()$
+    </p>
+  </div>
+  $if(by-author.affiliations)$
+  <div class="quarto-title-meta-contents">
+    $for(by-author.affiliations)$
+    <p class="affiliation">
+      $if(it.url)$<a href="$it.url$" class="url" rel="noopener noreferrer">$endif$$it.name$$if(it.url)$</a>$endif$
+    </p>
+    $endfor$
+  </div>
+  $endif$
+  $endfor$
+</div>
+$endif$
+
+$if(by-affiliation)$
+$elseif(by-author)$
+<div class="quarto-title-meta by-author">
+  <div>
+    <div class="quarto-title-meta-heading">$labels.authors$</div>
+    <div class="quarto-title-meta-contents">
+      $for(by-author)$<p class="author$if(by-author.attributes.supervised)$ supervised$endif$">
+      $title-metadata-author.html()$
+      </p>$endfor$
+    </div>
+  </div>
+</div>
+$endif$
+
+$if(abstract)$
+<div>
+  <div class="abstract">
+    <div class="abstract-title">$labels.abstract$</div>
+    $abstract$
+  </div>
+  $if(keywords)$<div class="keywords"><span class="keywords-title">Keywords:</span> $for(keyword)$$keyword$$sep$, $endfor$</div>$endif$
+</div>
+$endif$

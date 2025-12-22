@@ -1,0 +1,12 @@
+---
+title: "Healthcare"
+author: "Bluespace Ventures"
+date: "2025-08-21"
+custom-date: "2020-08-21"
+custom-number: 10
+categories: [data protection, project management, digitalisation, digital patient record, data integration, legal design, startup]
+image: "image.png"
+description: ""
+---
+
+Data Protection and Information Security to empower digital innovative solutions in Healthcare.

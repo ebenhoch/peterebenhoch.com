@@ -1,0 +1,17 @@
+---
+title: "Deutscher Post"
+subtitle: "Deutscher Untertitel"
+author: "Harlow Malloc"
+date: "2025-08-21"
+categories: [news, code, analysis]
+image: "image.jpg"
+lang: DE
+description: Description
+---
+
+[» English](index-en.qmd)
+
+# This is the english title
+
+
+
