@@ -1,0 +1,36 @@
+---
+#todo: erfahrungen, kompetenzen, blog, stanford farben ins css
+title: "Zine"
+subtitle: "Reviews and reflexions with personal book hints and link tips"
+abstract: "Reviews and reflexions with personal book hints and link tips."
+description: ""
+title-block-banner: true
+
+listing:
+    feed: false
+    contents: zine
+    fields: [title, subtitle, description, date, image, categories]
+    field-display-names:
+      title: "Title"
+      subtitle: "Author/Artist/Director"
+      description: "Teaser"
+      date: "Reviewed"
+      image: "Cover"
+      categories: "Type"
+    sort: "date desc"
+    type: grid
+    categories: true
+    sort-ui: false
+    filter-ui: false
+    date-format: iso
+ 
+page-layout: full
+   
+format:
+  html:
+    theme: united
+    css: styles.css
+    toc: true
+
+---
+

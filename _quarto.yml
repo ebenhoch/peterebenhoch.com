@@ -10,6 +10,7 @@ website:
       - sectors.qmd
       - skills.qmd
       - publications.qmd
+      - zine.qmd
       - contact.qmd
       - icon: mailbox
         href: mailto:pe@peterebenhoch.com
