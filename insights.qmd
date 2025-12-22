@@ -1,7 +1,7 @@
 ---
 #todo: erfahrungen, kompetenzen, blog, stanford farben ins css
-title: "Blog"
-subtitle: "Blog"
+title: "Insights"
+subtitle: "Insights"
 abstract: "Personal Website with professional background."
 description: "hugo was here2"
 title-block-banner: true
@@ -10,7 +10,7 @@ title-block-banner: true
 listing: 
   - id: english-posts
     feed: false
-    contents: "blog/*/*en.qmd"
+    contents: "insights/*/*en.qmd"
     fields: [title, subtitle, description, date, reading-time, lang]
     field-display-names:
       title: "Topic"
@@ -28,7 +28,7 @@ listing:
 
   - id: german-posts
     feed: false
-    contents: "blog/*/*de.qmd"
+    contents: "insights/*/*de.qmd"
     fields: [title, subtitle, description, date, reading-time, lang]
     field-display-names:
       title: "Topic"
@@ -47,7 +47,7 @@ listing:
   - id: rechtsinformatik
     feed: false
     contents: 
-      -  blog/rechtsinformatik.yaml
+      -  insights/rechtsinformatik.yaml
     fields: [title, text, date]
     field-display-names:
       title: "Topic"
@@ -68,7 +68,7 @@ listing:
   - id: systemic-advisor
     feed: false
     contents: 
-      -  blog/systemic-advisor.yaml
+      -  insights/systemic-advisor.yaml
     fields: [title, text, date]
     field-display-names:
       title: "Topic"

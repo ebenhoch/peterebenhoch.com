@@ -6,7 +6,7 @@ website:
   title: "Ultralearner / Systemic Advisor [BETA]"
   navbar:
     right:
-      - blog.qmd
+      - insights.qmd
       - sectors.qmd
       - skills.qmd
       - publications.qmd
