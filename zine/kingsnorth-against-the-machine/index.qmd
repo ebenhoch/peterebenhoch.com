@@ -5,16 +5,22 @@ date: "2024-12-22"
 year: "2025"
 rating: "8/10"
 genre: "Philosophie, Technikkritik"
-categories: [book, philosophy, technology-critique]
+categories: [book, philosophy, technology-critique, DE]
 image: "cover.png"
 description: "Kingsnorths Diagnose trifft einen kollektiven Nerv: Unsere Zivilisation verschiebt systematisch existenzielle Grenzen - von der Aufmerksamkeitsausbeutung bis zur Naturzerstörung. Eine Reflexion über das Newport/Harper-Interview, die zeigt, warum grenzenlose 'Fortschritts'-Logik scheitern muss."
 isbn: "9780593850633"
 author-link: "https://en.wikipedia.org/wiki/Paul_Kingsnorth"
 purchase-link: "https://www.amazon.com/Against-Machine-Unmaking-Paul-Kingsnorth/dp/0593850637"
 youtube-interview: "https://youtu.be/IV4c_VOv1e8"
+lang: DE
+status: "draft"
+released: "2024-12-22"
+updated: ""
 ---
 
 ![](cover.png){fig-align="center"}
+
+[» English](index-en.qmd)
 
 ## Einleitung
 

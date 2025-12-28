@@ -1,0 +1,70 @@
+---
+title: "Against the Machine: Preliminary Reflection on Kingsnorth's Boundary Diagnosis"
+subtitle: "Paul Kingsnorth (Conversation with Cal Newport & Tyler Austin Harper)"
+date: "2024-12-22"
+year: "2025"
+rating: "8/10"
+genre: "Philosophy, Technology Critique"
+categories: [book, philosophy, technology-critique, EN]
+image: "cover.png"
+description: "Kingsnorth's diagnosis hits a collective nerve: Our civilization systematically shifts existential boundaries - from attention exploitation to nature destruction. A reflection on the Newport/Harper interview that shows why boundless 'progress' logic must fail."
+isbn: "9780593850633"
+author-link: "https://en.wikipedia.org/wiki/Paul_Kingsnorth"
+purchase-link: "https://www.amazon.com/Against-Machine-Unmaking-Paul-Kingsnorth/dp/0593850637"
+youtube-interview: "https://youtu.be/IV4c_VOv1e8"
+lang: EN
+status: "draft"
+released: "2024-12-22"
+updated: ""
+---
+
+![](cover.png){fig-align="center"}
+
+[» Deutsch](index.qmd)
+
+## Introduction
+
+The book is in front of me, but I have only listened to the interview by Cal Newport with Tyler Austin Harper so far. I am therefore reviewing this conversation about "Against the Machine" here and would like to follow up with the actual book review in a second part later. The resonance in the USA is so massive that this preliminary reflection seems justified. The urgency of the topic and the precision with which Kingsnorth apparently hits a collective nerve make it clear: It is about nothing less than the question of when a civilization systematically crosses its existential boundaries to such an extent that its downfall becomes inevitable.
+
+## Theses
+
+According to Newport and Harper, Kingsnorth's achievement lies in translating a diffuse dissatisfaction with technology into a coherent diagnosis. The thesis: **Our civilization permanently shifts boundaries** - and these boundaries are ultimately the boundaries of the real environment and thus the boundaries of being human itself.
+
+The examples range from the exploitation of attention through social media to the destruction of nature through reckless growth to transhumanist and transsexual ideologies. What connects them all: the illusion that human and natural boundaries are arbitrarily negotiable - as long as abstract profits and one-sided interests are served.
+
+Kingsnorth calls this dynamic "the machine" - not as technology per se, but as a metaphysical principle of boundlessness that manifests itself through techno-capitalism, unleashed AI, and spiritual uprooting. The point he precisely hits: The past few years have made it clear to many people that technological "progress" did not bring further liberation, but a new form of enslavement. Even Australia's social media ban for under-16s shows how broad the problem sensitivity has become.
+
+## Insights
+
+The substrate of Kingsnorth's argumentation lies in its existentialist depth: He traces diverse crisis symptoms back to **one fundamental problem** - the loss of morality, human values, humanity itself. Environmental disasters, migration movements, growing poverty, the rise of autocracies, the power polarization between the USA, China, and Russia - all of this is for Kingsnorth not isolated crises, but symptoms of the same fundamental disease. Civilization has "completely fallen away from morality" and inevitably goes under because it has severed its connection to original morality and nature.
+
+This diagnosis resonates strongly - also with me. The question of **non-negotiable boundaries** is central: When must people learn to take themselves seriously? When must they understand that they are part of nature and not its rulers?
+
+At this point, however, it becomes more difficult for me. According to Newport/Harper, Kingsnorth traces this crisis back to an orthodox Christian original sin narrative - Eve and the apple, the transgression of divine boundaries as the original catastrophe. This seems too naive, too reductionist to me. The question is not whether we can return to a mythical origin, but: **What structural changes** would enable a different relationship to technology?
+
+Here lies my central difference: Renouncing smartphones and AI may be individually liberating, but it does not solve the systemic problem. It needs **new forms of interaction with each other** - and these can indeed be AI-supported. The crucial difference: AI not as a replacement for human-to-human connection (like social media algorithms), but as **support** for human communication and for organizations that build on shared needs.
+
+## Conclusion
+
+Kingsnorth's "Against the Machine" is a book for all people who sense that something is fundamentally wrong and are looking for a plausible explanation. For all who not only want to understand what the "machine" is, but also want to learn how to deal with it themselves and do something about it - even if that's not easy. For all who appreciate Cal Newport and Digital Minimalism, but are ready to think more radically and systemically. And for all who sense: The machine does not have to be our fate.
+
+The orthodox Christian turn may be too dogmatic for some, but the **core message** is universal: People must take themselves seriously, acknowledge their boundaries, and understand themselves as part - not as rulers - of nature. This is an existentialist insight that affects both left and right.
+
+**8/10**, because the diagnosis is brilliant - even if the therapy (Christian conservatism, technology abstinence) remains debatable. The book is a necessary wake-up call in an age that systematically erases boundaries. The question of whether it's about returning to old values, completely new structures, or a conscious integration of both dimensions remains open and productive - and it is precisely this openness that makes engagement with Kingsnorth so valuable.
+
+## About the Author
+
+Paul Kingsnorth (b. 1972) is an English writer and former environmental activist who now lives in Western Ireland. As co-founder of the Dark Mountain Project and author of ten books (including the Man Booker Prize-nominated novel "The Wake"), he combines ecological sensitivity with radical civilization critique. His recent conversion to Orthodox Christianity shapes his thinking about the spiritual roots of technocracy. Kingsnorth writes in the tradition of Wendell Berry, Jacques Ellul, and Simone Weil - precise, poetic, uncompromising.
+
+---
+
+**Part 2 will follow after reading the book.**
+
+## Links
+
+- [Cal Newport Interview with Tyler Austin Harper (YouTube)](https://youtu.be/IV4c_VOv1e8)
+- [Tyler Austin Harper's Atlantic Review](https://www.theatlantic.com/books/2025/11/paul-kingsnorth-against-the-machine/684848/)
+- [Paul Kingsnorth on Wikipedia](https://en.wikipedia.org/wiki/Paul_Kingsnorth)
+- [Paul Kingsnorth Website](https://www.paulkingsnorth.net/)
+- [Buy the book on Amazon](https://www.amazon.com/Against-Machine-Unmaking-Paul-Kingsnorth/dp/0593850637)
+

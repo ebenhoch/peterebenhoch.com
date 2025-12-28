@@ -9,7 +9,7 @@ title-block-banner: true
 listing:
     feed: false
     contents: zine
-    fields: [title, subtitle, description, date, image, categories]
+    fields: [title, subtitle, description, date, image, categories, status, lang]
     field-display-names:
       title: "Title"
       subtitle: "Author/Artist/Director"
@@ -17,6 +17,8 @@ listing:
       date: "Reviewed"
       image: "Cover"
       categories: "Type"
+      status: "Status"
+      lang: "Language"
     sort: "date desc"
     type: grid
     categories: true
