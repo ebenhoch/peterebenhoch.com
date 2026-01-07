@@ -2,23 +2,23 @@
 #todo: erfahrungen, kompetenzen, blog, stanford farben ins css
 title: "Publications"
 subtitle: "Publications"
-abstract: "Personal Website with professional background."
-description: "hugo was here2"
+abstract: "Academic publications and articles"
+description: "A selection of published articles and publications."
 title-block-banner: true
 
 listing:
     feed: false
-    contents: 
-    - publications.yml
-#    fields: [title, test]
+    contents: publications
+    fields: [title, author, description, date, image, categories]
     field-display-names:
-      title: "Topic"
-      author: "Affiliation"
-      date: "Since"
-      custom-number: "#" 
-      custom-field: "Affiliation"
-    sort: "custom-number"
-    type: default
+      title: "Title"
+      author: "Author"
+      description: "Description"
+      date: "Published"
+      image: "Cover"
+      categories: "Categories"
+    sort: "date desc"
+    type: grid
     categories: true
     sort-ui: false
     filter-ui: false
@@ -33,6 +33,4 @@ format:
     toc: true
 
 ---
-
-
 
