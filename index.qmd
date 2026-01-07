@@ -4,7 +4,7 @@
 title: "Dr. iur. Peter Ebenhoch"
 subtitle: "CISM® CIPP/E® PMP®"
 abstract: "Experienced digital and legal professional with extensive legal innovation and compliance experience in regulated sectors."
-description: "Transformational Governance – Information Security & Data Sovereignty – Digital Law Counseling"
+description: "Transformational Governance – Information Security & Data Sovereignty – Digital Law Economy"
 title-block-banner: true
 #listing:
 #  - id: blog
