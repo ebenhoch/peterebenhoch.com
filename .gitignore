@@ -21,3 +21,12 @@ Thumbs.db
 
 /.quarto/
 **/*.quarto_ipynb
+
+# Environment variables (contains SMTP credentials)
+api/.env
+
+# Composer dependencies
+api/vendor/
+
+# PHP session files
+api/sessions/
