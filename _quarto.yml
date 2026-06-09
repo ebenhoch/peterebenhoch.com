@@ -3,7 +3,7 @@ project:
 
 website:
   #title: "Data Governance & Information Security [BETA]"
-  title: "Ultralearner / Systemic Advisor [BETA]"
+  title: "Deep Generalist / Systemic Advisor"
   navbar:
     right:
       - insights.qmd
@@ -19,7 +19,7 @@ website:
   page-footer:
   #    background: light # or `dark`
       left: © Dr. Peter Ebenhoch 
-      right: "2025"
+      right: "2026"
 
 format:
   html:

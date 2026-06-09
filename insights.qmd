@@ -1,31 +1,13 @@
 ---
 #todo: erfahrungen, kompetenzen, blog, stanford farben ins css
 title: "Insights"
-subtitle: "Insights"
-abstract: "Personal Website with professional background."
-description: "hugo was here2"
+subtitle: "Hintergründe und Empfehlungen zu Digital Economy und AI-Governance"
+abstract: "Hintergründe und Empfehlungen zu Digital Economy und AI-Governance"
+description: "Hintergründe und Empfehlungen zu Digital Economy und AI-Governance"
 title-block-banner: true
 
 
 listing: 
-  - id: english-posts
-    feed: false
-    contents: "insights/*/*en.qmd"
-    fields: [title, subtitle, description, date, reading-time, lang]
-    field-display-names:
-      title: "Topic"
-      subtitle: "Subtitle"
-      author: "Affiliation"
-      date: "Since"
-      custom-number: "#" 
-      custom-field: "Affiliation"
-    sort: "custom-number"
-    type: default
-    categories: true
-    sort-ui: false
-    filter-ui: true
-    date-format: iso
-
   - id: german-posts
     feed: false
     contents: "insights/*/*de.qmd"
@@ -95,11 +77,6 @@ format:
     toc: true
 
 ---
-
-## English posts
-
-:::{#english-posts}
-:::
 
 ## Blogbeiträge auf deutsch
 

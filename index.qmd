@@ -3,8 +3,7 @@
 # g:\Meine Ablage\Workspace\Photos\Portraets\PXL Vision - 2024-04\
 title: "Dr. iur. Peter Ebenhoch"
 subtitle: "CISM® CIPP/E® PMP®"
-abstract: "Experienced digital and legal professional with extensive legal innovation and compliance experience in regulated sectors."
-description: "Transformational Governance – Information Security & Data Sovereignty – Digital Law Economy"
+abstracthi: "Experienced digital and legal professional with extensive legal innovation and compliance experience in re∏rmation Security & Data Sovereignty – Digital Law Economy"
 title-block-banner: true
 #listing:
 #  - id: blog
@@ -14,6 +13,15 @@ title-block-banner: true
 #    categories: true
 #    sort-ui: false
 #    filter-ui: false
+
+listing:
+  - id: latest-insight
+    contents: "insights/*/*de.qmd"
+    sort: "date desc"
+    type: default
+    max-items: 1
+    fields: [title, subtitle, description, date, reading-time]
+    date-format: iso
 
 page-layout: full
    
@@ -26,6 +34,13 @@ format:
 # {{< iconify mdi:volume-high >}} test
 # {{< iconify fa6-brands:bluesky >}}
 
+
+---
+
+## Aktueller Beitrag
+
+:::{#latest-insight}
+:::
 
 ---
 

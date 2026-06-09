@@ -1,23 +1,15 @@
-# Quarto
+# Rendered output
 _site/
-.quarto/
 
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
+# Secrets
+api/.env
 
-# OS
+# Composer dependencies (install on server separately)
+api/vendor/
+
+# Archive
+_archive-github-2026-01/
+
+# macOS
 .DS_Store
-Thumbs.db
-
-# Temporary files
-*.tmp
-*.bak
-*.log
-
-
-/.quarto/
-**/*.quarto_ipynb
+**/.DS_Store
