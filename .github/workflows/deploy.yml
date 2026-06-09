@@ -1,0 +1,36 @@
+name: Deploy peterebenhoch.com
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:  # Manueller Trigger aus GitHub UI
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Render site
+        run: quarto render
+
+      - name: Set up SSH
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.HETZNER_SSH_PRIVATE_KEY }}" > ~/.ssh/deploy_key
+          chmod 600 ~/.ssh/deploy_key
+          # Known host key des Servers (78.46.199.38)
+          echo "78.46.199.38 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAvVmJBakdxgPuDii/3/dBb8qnbAPFezg32AXObfTMVJ" >> ~/.ssh/known_hosts
+
+      - name: Deploy via rsync
+        run: |
+          rsync -avz --delete \
+            --exclude 'api/' \
+            -e "ssh -i ~/.ssh/deploy_key -o StrictHostKeyChecking=yes" \
+            _site/ \
+            root@78.46.199.38:/var/www/peterebenhoch.com/
