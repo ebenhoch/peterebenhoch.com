@@ -14,7 +14,23 @@ bewertung: "A (Excellent)"
 
 ## Abstract
 
-Der Essay untersucht, was eine Handlung im Datenschutz-, KI- und Informationssicherheitsrecht überhaupt erst zu einer rechtlich relevanten „technischen und organisatorischen Massnahme" (TOM) macht, und verschiebt damit den Blick von der verbreiteten Aufzählung möglicher Massnahmen hin zu den konstitutiven Kriterien, die eine Handlung in diesen Status erheben. Anhand der DSGVO (Art. 24, 25, 32), des AI Act, des Data Act und der NIS2-Richtlinie arbeitet er eine wiederkehrende Regelungstechnik heraus, die sich als „regulated self-regulation through purposive norm-setting" beschreiben lässt: Der Gesetzgeber gibt Schutzziele und Entscheidungsparameter vor und überlässt die konkrete Massnahmenwahl den Adressaten. Systemtheoretische Begriffe wie Variety, Constraint und Control fungieren darin als eigentliches Analysewerkzeug, mit dem sich an Fallbeispielen wie CrowdStrike, Microsoft 365 und Criteo zeigen lässt, wie Massnahmen den Handlungsraum eines Systems tatsächlich einschränken. Der Essay schliesst mit dem Konzept der „Shadow Compliance", jener Lücke, die entsteht, wenn dokumentierte Massnahmen von der tatsächlich gelebten Praxis abweichen.
+Nicht jede Massnahme, die im digitalen Alltag aus Gründen des Datenschutzes oder der Informationssicherheit dokumentiert wird, ist eine rechtlich relevante «technische und organisatorische Massnahme» (TOM) im Sinne des europäischen Datenschutz-, KI- und Informationssicherheitsrechts. 
+
+Der Essay identifiziert zwei kumulative Kriterien, die diesen Status begründen: die fachlich prognostizierte, risikomindernde Eignung einer Massnahme (Risikorelevanz) und ihre Nachweisbarkeit (Evidenz). Dabei zeigt sich, dass mangels eines sachadäquaten technischen Verständnisses die Dokumentation einer Massnahme in der Praxis nicht selten deren eigentlichen Kern übernimmt, mit der Gefahr, dass sie an die Stelle der tatsächlichen, risikomindernden Massnahme tritt, obwohl sie ursprünglich nur deren Nachweis erbringen sollte.
+
+Anhand der DSGVO (Art. 24, 25, 32), des AI Act, des Data Act und der NIS2-Richtlinie beschreibt der Essay die wiederkehrende Regelungstechnik der «regulated self-regulation through purposeful norm-setting», bei der der Gesetzgeber Schutzziele vorgibt und die konkrete Massnahmenwahl den Adressaten überlässt. 
+
+Systemtheoretische Begriffe wie Variety, Constraint und Control dienen dabei als Analysewerkzeug, etwa an Fallbeispielen wie dem CrowdStrike-Vorfall, aufsichtsbehördlichen Verfahren zu Microsoft 365 und dem Amsterdamer Gerichtsurteil im Fall Criteo. 
+
+Der Essay schliesst mit dem Konzept der «Shadow Compliance»: jener Lücke, die entsteht, wenn dokumentierte Massnahmen von der tatsächlich gelebten Praxis abweichen – ein Risiko, das angesichts wachsender Komplexität und zunehmender Auslagerung an Auftragsverarbeiter absehbar wächst. 
+
+## Würdigung
+
+**Final Grade: A (Excellent)**
+
+> „Overall, this is an exceptional essay. [...] Within the submitted LDE essays, it belongs to the strongest group."
+>
+> — Prof. Dr. Thomas Hoeren, Bewertung vom 24. August 2026
 
 ## Bibliographische Details
 
@@ -24,3 +40,9 @@ Der Essay untersucht, was eine Handlung im Datenschutz-, KI- und Informationssic
 **Dozent:** Prof. Dr. Thomas Hoeren
 **Eingereicht:** 31. Juli 2026
 **Bewertung:** A (Excellent)
+
+## Versionsverlauf
+
+| Version | Datum | Änderung |
+|---|---|---|
+| 1.0 | 2026-07-31 | Eingereichte Fassung (benotet: A) |
