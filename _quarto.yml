@@ -3,7 +3,8 @@ project:
 
 website:
   #title: "Data Governance & Information Security [BETA]"
-  title: "Deep Generalist / Systemic Advisor"
+  #title: "Deep Generalist / Systemic Advisor"
+  title: "Legal Counsel / Governance & Compliance / AI Officer"
   navbar:
     right:
       - insights.qmd

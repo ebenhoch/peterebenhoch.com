@@ -4,6 +4,7 @@ subtitle: "Towards a Coherent Concept of Technical and Organisational Measures A
 date: "2026-07-31"
 author: "Dr. Peter Ebenhoch"
 categories: [legal, data-protection, AI-Act]
+image: "itm-logo-card.png"
 description: "Legal Essay im Rahmen des Law of the Digital Economy-Programms (ITM Münster) bei Prof. Dr. Thomas Hoeren. Bewertet mit A (Excellent)."
 title-block-banner: true
 institution: "Institut für Informations-, Telekommunikations- und Medienrecht (ITM), Universität Münster"
@@ -12,11 +13,13 @@ dozent: "Prof. Dr. Thomas Hoeren"
 bewertung: "A (Excellent)"
 ---
 
+![](itm-logo-trans.png){fig-align="center" width="45%"}
+
 ## Abstract
 
 Nicht jede Massnahme, die im digitalen Alltag aus Gründen des Datenschutzes oder der Informationssicherheit dokumentiert wird, ist eine rechtlich relevante «technische und organisatorische Massnahme» (TOM) im Sinne des europäischen Datenschutz-, KI- und Informationssicherheitsrechts. 
 
-Der Essay identifiziert zwei kumulative Kriterien, die diesen Status begründen: die fachlich prognostizierte, risikomindernde Eignung einer Massnahme (Risikorelevanz) und ihre Nachweisbarkeit (Evidenz). Dabei zeigt sich, dass mangels eines sachadäquaten technischen Verständnisses die Dokumentation einer Massnahme in der Praxis nicht selten deren eigentlichen Kern übernimmt, mit der Gefahr, dass sie an die Stelle der tatsächlichen, risikomindernden Massnahme tritt, obwohl sie ursprünglich nur deren Nachweis erbringen sollte.
+Der Essay identifiziert zwei konstitutive Kriterien, die diesen Status begründen: die fachlich prognostizierte, risikomindernde Eignung einer Massnahme (Risikorelevanz) und ihre Nachweisbarkeit (Evidenz). Dabei zeigt sich, dass mangels eines sachadäquaten technischen Verständnisses die Dokumentation einer Massnahme in der Praxis nicht selten deren eigentlichen Kern übernimmt, mit der Gefahr, dass sie an die Stelle der tatsächlichen, risikomindernden Massnahme tritt, obwohl sie ursprünglich nur deren Nachweis erbringen sollte.
 
 Anhand der DSGVO (Art. 24, 25, 32), des AI Act, des Data Act und der NIS2-Richtlinie beschreibt der Essay die wiederkehrende Regelungstechnik der «regulated self-regulation through purposeful norm-setting», bei der der Gesetzgeber Schutzziele vorgibt und die konkrete Massnahmenwahl den Adressaten überlässt. 
 
