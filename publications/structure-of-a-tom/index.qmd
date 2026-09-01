@@ -1,0 +1,26 @@
+---
+title: "The Structure of a TOM"
+subtitle: "Towards a Coherent Concept of Technical and Organisational Measures Across EU Digital Law"
+date: "2026-07-31"
+author: "Dr. Peter Ebenhoch"
+categories: [legal, data-protection, AI-Act]
+description: "Legal Essay im Rahmen des Law of the Digital Economy-Programms (ITM Münster) bei Prof. Dr. Thomas Hoeren. Bewertet mit A (Excellent)."
+title-block-banner: true
+institution: "Institut für Informations-, Telekommunikations- und Medienrecht (ITM), Universität Münster"
+kurs: "Law of the Digital Economy (LDE)"
+dozent: "Prof. Dr. Thomas Hoeren"
+bewertung: "A (Excellent)"
+---
+
+## Abstract
+
+Der Essay untersucht, was eine Handlung im Datenschutz-, KI- und Informationssicherheitsrecht überhaupt erst zu einer rechtlich relevanten „technischen und organisatorischen Massnahme" (TOM) macht, und verschiebt damit den Blick von der verbreiteten Aufzählung möglicher Massnahmen hin zu den konstitutiven Kriterien, die eine Handlung in diesen Status erheben. Anhand der DSGVO (Art. 24, 25, 32), des AI Act, des Data Act und der NIS2-Richtlinie arbeitet er eine wiederkehrende Regelungstechnik heraus, die sich als „regulated self-regulation through purposive norm-setting" beschreiben lässt: Der Gesetzgeber gibt Schutzziele und Entscheidungsparameter vor und überlässt die konkrete Massnahmenwahl den Adressaten. Systemtheoretische Begriffe wie Variety, Constraint und Control fungieren darin als eigentliches Analysewerkzeug, mit dem sich an Fallbeispielen wie CrowdStrike, Microsoft 365 und Criteo zeigen lässt, wie Massnahmen den Handlungsraum eines Systems tatsächlich einschränken. Der Essay schliesst mit dem Konzept der „Shadow Compliance", jener Lücke, die entsteht, wenn dokumentierte Massnahmen von der tatsächlich gelebten Praxis abweichen.
+
+## Bibliographische Details
+
+**Legal Essay** im Rahmen von *Law of the Digital Economy* (LDE)
+
+**Institution:** Institut für Informations-, Telekommunikations- und Medienrecht (ITM), Universität Münster
+**Dozent:** Prof. Dr. Thomas Hoeren
+**Eingereicht:** 31. Juli 2026
+**Bewertung:** A (Excellent)
