@@ -6,7 +6,7 @@ date: "2026-10-06"
 categories: [AI Governance, Digitale Souveränität, Recht]
 ---
 
-*Lange Antwort auf einen Kommentar zu Clara Riedensteins Artikel [«KI lässt sich nicht verhaften»](https://www.derstandard.at/story/3000000342223/ki-laesst-sich-nicht-verhaften) (Der Standard, 4. Oktober 2026).*
+*Dieser Beitrag ist eine Antwort auf Clara Riedensteins Gastkommentar [«KI lässt sich nicht verhaften»](https://www.derstandard.at/story/3000000342223/ki-laesst-sich-nicht-verhaften) (Der Standard, 4. Oktober 2026), der die These vertritt, KI lasse sich mangels physischer Verortbarkeit nicht wirksam regulieren – und stelle damit sogar die Grundidee des Nationalstaats infrage.*
 
 Laut Clara Riedenstein bringt eine KI-Strategie nur dann etwas, wenn die KI verhaftet werden könne. Dies sei nicht möglich, und dies mache das Erstellen einer Strategie nicht nur zur Sisyphus-Aufgabe, sondern bringe sogar aus philosophischer Sicht die Grundidee des Nationalstaats ins Wanken.
 
