@@ -1,11 +1,10 @@
 ---
-title: "The Structure of a TOM"
-subtitle: "Towards a Coherent Concept of Technical and Organisational Measures Across EU Digital Law"
+title: "Anatomy of a TOM – Towards a Coherent Concept of Technical and Organisational Measures Across EU Digital Law"
 date: "2026-07-31"
-author: "Dr. Peter Ebenhoch"
+author: "Dr. iur. Peter Ebenhoch"
 categories: [legal, data-protection, AI-Act]
 image: "itm-logo-card.png"
-description: "Legal Essay im Rahmen des Law of the Digital Economy-Programms (ITM Münster) bei Prof. Dr. Thomas Hoeren. Bewertet mit A (Excellent)."
+description: "Chapter in: Thomas Hoeren (ed.), EU Digital Law in Practice – Data, Artificial Intelligence and Effective Protection (working title), Tectum/Nomos, forthcoming 2027. Based on an essay written for the Law of the Digital Economy course (ITM Münster)."
 title-block-banner: true
 institution: "Institut für Informations-, Telekommunikations- und Medienrecht (ITM), Universität Münster"
 kurs: "Law of the Digital Economy (LDE)"
@@ -29,7 +28,7 @@ Der Essay schliesst mit dem Konzept der «Shadow Compliance»: jener Lücke, die
 
 ## Würdigung
 
-**Final Grade: A (Excellent)**
+The original essay received the top grade (A) in the course programme.
 
 > „Overall, this is an exceptional essay. [...] Within the submitted LDE essays, it belongs to the strongest group."
 >

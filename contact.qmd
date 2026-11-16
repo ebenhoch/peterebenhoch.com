@@ -23,7 +23,7 @@ format:
   
 ::: {.g-col-6}
 
-    Dr. Peter Ebenhoch
+    Dr. iur. Peter Ebenhoch
     pe@peterebenhoch.com
     https://linkedin.com/in/ebenhoch
 
@@ -81,7 +81,7 @@ Contact me using the form below.
         <h6 class="mb-3">Areas of Interest</h6>
         <div class="form-check mb-2">
           <input class="form-check-input" type="checkbox" name="interests[]" value="transformational-governance" id="interest-dg">
-          <label class="form-check-label" for="interest-dg">Transformational Governance</label>
+          <label class="form-check-label" for="interest-dg">AI Governance & Compliance</label>
         </div>
         <div class="form-check mb-2">
           <input class="form-check-input" type="checkbox" name="interests[]" value="information-security-data-sovereignty" id="interest-is">

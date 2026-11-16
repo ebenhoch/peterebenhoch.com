@@ -1,0 +1,18 @@
+---
+title: "Wie künstliche Intelligenz Rechtsentscheidungen unterstützen kann – Zur semantischen Validierungspflicht in der juristischen Entscheidungsfindung"
+date: "2026-02-18"
+author: "Dr. iur. Peter Ebenhoch"
+categories: [legal, AI, legal-informatics]
+description: "Beitrag in: Erich Schweighofer, Stefan Eder, Federico Costantini, Felix Schmautzer (eds), «Mensch-Maschine-Kooperation im Cyberspace», Tagungsband des 29. Internationalen Rechtsinformatik Symposions IRIS 2026, Editions Weblaw, Bern 2026, pp. 39–48."
+title-block-banner: true
+---
+
+## Bibliographische Details
+
+**Beitrag** im Tagungsband  
+Seiten 39–48
+
+**Titel:** Mensch-Maschine-Kooperation im Cyberspace – Tagungsband des 29. Internationalen Rechtsinformatik Symposions IRIS 2026  
+**Herausgeber:** Erich Schweighofer, Stefan Eder, Federico Costantini, Felix Schmautzer  
+**Verlag:** Editions Weblaw, Bern  
+**Erscheinungsjahr:** 2026  

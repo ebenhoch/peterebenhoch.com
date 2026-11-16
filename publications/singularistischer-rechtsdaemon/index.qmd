@@ -1,0 +1,18 @@
+---
+title: "Der singularistische Rechtsdämon – Digitalisierung des Rechts auf Abwegen"
+date: "2023-06-29"
+author: "Dr. iur. Peter Ebenhoch"
+categories: [legal, legal-informatics]
+description: "Beitrag in: Günther Schefbeck, Hanna Maria Kreuzbauer, Meinrad Handstanger (eds), «Strukturen und Symbole des Rechts: Festschrift für Friedrich Lachmayer», Editions Weblaw, Bern 2023, pp. 1–32."
+title-block-banner: true
+---
+
+## Bibliographische Details
+
+**Buchbeitrag** in einem Sammelband  
+Seiten 1–32
+
+**Titel:** Strukturen und Symbole des Rechts: Festschrift für Friedrich Lachmayer  
+**Herausgeber:** Günther Schefbeck, Hanna Maria Kreuzbauer, Meinrad Handstanger  
+**Verlag:** Editions Weblaw, Bern  
+**Erscheinungsjahr:** 2023  

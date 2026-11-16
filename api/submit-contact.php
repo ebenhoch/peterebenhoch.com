@@ -95,7 +95,7 @@ $interests = array_map('htmlspecialchars', $data['interests']);
 
 // Map interest codes to readable names
 $interestNames = [
-    'transformational-governance' => 'Transformational Governance',
+    'transformational-governance' => 'AI Governance & Compliance',
     'information-security-data-sovereignty' => 'Information Security & Data Sovereignty',
     'digital-law-counseling' => 'Digital Law Counseling',
     'keep-me-posted' => 'Keep me posted about website updates',

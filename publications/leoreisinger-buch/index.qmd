@@ -3,10 +3,10 @@ title: "Wissenschaft als Erkenntnisprozess – «Neue Aufklärung» auf den Spur
 subtitle: "Beitrag in: Anfänge, Entfaltung und Perspektiven der Rechtsinformatik in Österreich – Gedenkschrift für Leo Reisinger"
 date: "2025-01-01"
 date-format: "YYYY"
-author: "Dr. Peter Ebenhoch"
+author: "Dr. iur. Peter Ebenhoch"
 categories: [legal, methodology, science]
 image: "leoreisinger-buch.webp"
-description: "Beitrag in einem Sammelband über die Anfänge der Rechtsinformatik in Österreich. Leo Reisinger war einer der Pioniere der Rechtsinformatik."
+description: "Beitrag in: Markus Holzweber, Friedrich Lachmayer, Günther Schefbeck (eds), «Anfänge, Entfaltung und Perspektiven der Rechtsinformatik in Österreich: Gedenkschrift für Leo Reisinger», danzig & unfried, Vienna 2025."
 title-block-banner: true
 verlag: "Danzig und Unfried Publishing"
 sammelband: true
@@ -24,6 +24,8 @@ Leo Reisinger war einer der Pioniere der Rechtsinformatik in Österreich. Er hat
 
 **Buchbeitrag** in einem Sammelband  
 Seiten 163–180
+
+in: Markus Holzweber, Friedrich Lachmayer, Günther Schefbeck (eds), «Anfänge, Entfaltung und Perspektiven der Rechtsinformatik in Österreich: Gedenkschrift für Leo Reisinger», danzig & unfried, Vienna 2025.
 
 **Titel:** Anfänge, Entfaltung und Perspektiven der Rechtsinformatik in Österreich – Gedenkschrift für Leo Reisinger  
 **Herausgeber:** Markus Holzweber, Friedrich Lachmayer, Günther Schefbeck  

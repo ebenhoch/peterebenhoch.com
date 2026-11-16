@@ -3,8 +3,10 @@
 # g:\Meine Ablage\Workspace\Photos\Portraets\PXL Vision - 2024-04\
 title: "Dr. iur. Peter Ebenhoch"
 subtitle: "CISM® CIPP/E® PMP®"
+pagetitle: "Home"
 abstracthi: "Experienced digital and legal professional with extensive legal innovation and compliance experience in re∏rmation Security & Data Sovereignty – Digital Law Economy"
 title-block-banner: true
+description-meta: "Legal Counsel | AI Governance | Data Protection"
 #listing:
 #  - id: blog
 #    contents: blog
@@ -44,14 +46,14 @@ format:
 
 ---
 
-## Aktuelle Publikation
+## Latest Publication
 
 :::{#latest-publication}
 :::
 
 ---
 
-## Aktueller Beitrag
+## Latest Insight
 
 :::{#latest-insight}
 :::

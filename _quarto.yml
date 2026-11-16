@@ -1,17 +1,17 @@
 project:
   type: website
+  post-render: post-render.py
 
 website:
   #title: "Data Governance & Information Security [BETA]"
   #title: "Deep Generalist / Systemic Advisor"
-  title: "Legal Counsel / Governance & Compliance / AI Officer"
+  title: "Dr. iur. Peter Ebenhoch – Legal Counsel | AI Governance | Data Protection & Information Security"
   navbar:
     right:
       - insights.qmd
       - sectors.qmd
       - skills.qmd
       - publications.qmd
-      - zine.qmd
       - contact.qmd
       - icon: mailbox
         href: mailto:pe@peterebenhoch.com
@@ -19,7 +19,7 @@ website:
         href: https://linkedin.com/in/ebenhoch
   page-footer:
   #    background: light # or `dark`
-      left: © Dr. Peter Ebenhoch 
+      left: © Dr. iur. Peter Ebenhoch 
       right: "2026"
 
 format:
